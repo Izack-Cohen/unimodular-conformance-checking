@@ -1,0 +1,26 @@
+# URC² - Unimodular Reformulation for Conformance Checking
+# Python Dependencies
+
+# Process Mining
+pm4py>=2.7.19
+
+# Optimization (requires separate Gurobi license)
+gurobipy>=9.0.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Performance Optimization
+numba>=0.55.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Statistics
+scipy>=1.9.0
+
+# Note: Gurobi requires a separate license installation
+# Academic licenses available free at:
+# https://www.gurobi.com/academia/academic-program-and-licenses/

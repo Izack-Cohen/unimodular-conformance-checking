@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "URC²: Unimodular Reformulation for Conformance Checking"
+authors:
+  - family-names: Cohen
+    given-names: Izack
+repository-code: "https://github.com/Izack-Cohen/unimodular-conformance-checking"
+license: MIT
+version: "1.0.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Cohen
+      given-names: Izack
+  title: "Developing a Totally Unimodular Linear Program for Optimal Conformance Checking: When and Why It Complements A*"
+  journal: "Expert Systems with Applications"
+  year: 2026
+  notes: "Forthcoming"
