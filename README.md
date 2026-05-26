@@ -6,6 +6,8 @@ This repository contains the implementation and experiment scripts accompanying 
 
 URC² formulates alignment-based conformance checking as a minimum-cost network-flow linear program over a reachability graph of the synchronous product. The resulting node-arc incidence matrix is totally unimodular, so the LP admits integral optimal extreme-point solutions without binary decision variables.
 
+Please cite the paper if you are using this code.
+
 ## Repository contents
 
 ```text
